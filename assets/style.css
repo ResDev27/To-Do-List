@@ -81,3 +81,21 @@ h1 {
     width: 350px;
     font-size: 1.4rem;
 }
+
+.editButton {
+    font-size: 1.4rem;
+    margin: 0 0.5rem;
+    background: none;
+    outline: none;
+    color: lime;
+    border: none;
+}
+
+.removeButton {
+    font-size: 1.4rem;
+    margin: 0 0.5rem;
+    background: none;
+    outline: none;
+    color: red;
+    border: none;
+}
